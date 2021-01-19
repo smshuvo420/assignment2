@@ -1,0 +1,30 @@
+
+h1 {
+    color: rgb(241, 23, 132);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: black;
+    height: 80px;
+    width: 50;
+    text-align: center;
+    margin-bottom: 0;
+
+}
+p {
+    font-size: 15px;
+    color: hotpink;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    margin-bottom: 0%;
+}
+h5 {
+    margin-top: 1%;
+    text-align: center;
+    color: indigo;
+    font-size: 60px;
+
+}
+.pic {
+    position: fixed;
+}
